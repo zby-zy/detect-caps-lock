@@ -1,2 +1,1 @@
-# detect-capslock
-This project for detecting Caps Lock.
+# Detect Caps Lock
